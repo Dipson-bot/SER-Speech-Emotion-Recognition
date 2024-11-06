@@ -7,20 +7,21 @@ The dataset is organised such that each of the two female actor and their emotio
 
 # Output Attributes
 anger
-disgust
-fear
-happiness
-pleasant surprise
-sadness
+disgust,
+fear,
+happiness,
+pleasant surprise,
+sadness,
 neutral
 
-# Download link: https://www.kaggle.com/ejlok1/toronto-emotional-speech-set-tess More Datasets: https://www.kaggle.com/dmitrybabko/speech-emotion-recognition-en
+# Download link:
+https://www.kaggle.com/ejlok1/toronto-emotional-speech-set-tess More Datasets: https://www.kaggle.com/dmitrybabko/speech-emotion-recognition-en
 
 # Libraries
-pandas
-matplotlib
-keras
-tensorflow
+pandas,
+matplotlib,
+keras,
+tensorflow,
 librosa
 
 # Neural Network
